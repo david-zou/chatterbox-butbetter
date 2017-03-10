@@ -21824,7 +21824,8 @@ var App = function (_React$Component) {
   return App;
 }(_react2.default.Component);
 
-_reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById('id for render thing here'));
+_reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById('app'));
 
 /***/ })
 /******/ ]);
+//# sourceMappingURL=bundle.js.map
